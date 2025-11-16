@@ -27,4 +27,3 @@ if __name__ == "__main__":
         print(data)
     except Exception as e:
         print(e)
-    from random import randint
